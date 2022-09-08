@@ -39,7 +39,7 @@ body {
     font-size: 1.6rem;
 }
 
-.top-box h4 {
+.top-box h2 {
     color: hsl(71, 73%, 54%);
     margin-bottom: 12px;
     font-weight: 700;
@@ -64,7 +64,7 @@ body {
     padding: 35px;
 }
 
-.bottom-left-box h4 {
+.bottom-left-box h3 {
     margin-bottom: 18px;
 }
 
@@ -114,7 +114,7 @@ button:hover {
     padding: 35px;
 }
 
-.bottom-right-box h4 {
+.bottom-right-box h3 {
     margin-bottom: 18px;
 }
 
